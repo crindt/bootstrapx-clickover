@@ -1,0 +1,17 @@
+{
+  "name": "bootstrapx-clickover",
+  "repo": "crindt/bootstrapx-clickover",
+  "description": "Component wrapper for bootstrapx-clickover",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/jquery": "*",
+    "codemix/bootstrap-popover": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "js/bootstrapx-clickover.js",
+  "scripts": [
+    "js/bootstrapx-clickover.js"
+  ]
+}
