@@ -11,6 +11,9 @@
  * Untested with 2.1.0 but should worked with 2.0.x
  *
  * ========================================================== */
+window.jQuery = require('jquery');
+require('bootstrap-popover');
+
 !function($) {
   "use strict"
 
